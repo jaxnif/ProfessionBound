@@ -1,6 +1,8 @@
 # _Profession Bound_
 
-_This is the Profession Bound `Developement Build`. This may be incomplete and unstable, don't forget to make backups._
+_This is the Profession Bound `Developement Build`. This may be incomplete and unstable, don't forget to make universe and player backups incase of issues. If you want a stable version please go to http://professionbound.com/pro/download.php_
+
+_Anyone is welcome to download this zip and try the development version out but we ask that you don't make comments or reviews in areas where things are offical as they are not completed in this build. If you wish to make comments and suggestions on developement please feel free to post your ideas and questions within our websites ideafeed system. Found at the download page, it is fine to use this system with issues related to the developement build. Just be sure you tell us the version you are using to better serve you._
 
 ## Project Workflow
 
