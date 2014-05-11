@@ -1,5 +1,5 @@
 {
-  "type" : "smallflying",
+  "type" : "smallflyingmon",
 
   "categories" : [ "smallflying_organic" ],
   "parts" : [ "body", "head", "wings" ],
