@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "smallwfilledflask", "count" : 1 },
+	{ "item" : "tar", "count" : 1 }
+  ],
+  "output" : { "item" : "tinkatimer", "count" : 1 },
+  "groups" : [ "proboundmod", "engineer", "engineeringingredient" ]
+}

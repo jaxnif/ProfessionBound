@@ -1,0 +1,9 @@
+{
+  "itemName" : "wooden_bolt",
+  "rarity" : "uncommon",
+  "category" : "Cloth",
+  "race" : "generic",
+  "inventoryIcon" : "wooden_bolt.png",
+  "shortdescription" : "Wooden Bolt",
+  "description" : "A wooden bolt to wrap your cloth around!"
+}

@@ -1,0 +1,8 @@
+{
+  "itemName" : "solder",
+  "rarity" : "Common",
+  "category" : "Parts",
+  "race" : "generic",
+  "inventoryIcon" : "solder.png",
+  "shortdescription" : "Solder"
+}

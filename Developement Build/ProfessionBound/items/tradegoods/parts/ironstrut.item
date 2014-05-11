@@ -1,0 +1,9 @@
+{
+  "itemName" : "ironstrut",
+  "rarity" : "common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "ironstrut.png",
+  "description" : "Iron Struts are useful for many devices and gadgets and other stuff!",
+  "shortdescription" : "Iron Strut"
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "fused_wiring",
+  "rarity" : "Common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "fused_wiring.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Fused Wiring"
+}

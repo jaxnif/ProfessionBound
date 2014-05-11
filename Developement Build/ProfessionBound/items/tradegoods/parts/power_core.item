@@ -1,0 +1,9 @@
+{
+  "itemName" : "power_core",
+  "rarity" : "rare",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "power_core.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Power Core"
+}

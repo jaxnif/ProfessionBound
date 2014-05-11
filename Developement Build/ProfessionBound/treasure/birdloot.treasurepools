@@ -1,0 +1,124 @@
+{
+  "birdloot" : [
+    [1, {
+        "pool" : [
+          [0.36, [ "feather", 3] ],
+		  [0.10, [ "rawpoultry", 1] ]
+        ],
+        "poolRounds" : [
+          [0.20, 0],
+          [0.80, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [2, {
+        "pool" : [
+          [0.36, [ "feather", 3] ],
+		  [0.10, [ "rawpoultry", 1] ]
+        ],
+        "poolRounds" : [
+          [0.20, 0],
+          [0.80, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [3, {
+        "pool" : [
+          [0.36, [ "feather", 3] ],
+		  [0.10, [ "rawpoultry", 1] ]
+        ],
+        "poolRounds" : [
+          [0.20, 0],
+          [0.80, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [4, {
+        "pool" : [
+          [0.36, [ "feather", 3] ],
+		  [0.10, [ "rawpoultry", 1] ]
+        ],
+        "poolRounds" : [
+          [0.20, 0],
+          [0.80, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [5, {
+        "pool" : [
+          [0.36, [ "feather", 3] ],
+		  [0.10, [ "rawpoultry", 1] ]
+        ],
+        "poolRounds" : [
+          [0.20, 0],
+          [0.80, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [6, {
+        "pool" : [
+          [0.36, [ "feather", 5] ],
+		  [0.10, [ "rawpoultry", 1] ]
+        ],
+        "poolRounds" : [
+          [0.20, 0],
+          [0.80, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [7, {
+        "pool" : [
+          [0.36, [ "feather", 5] ],
+		  [0.10, [ "rawpoultry", 1] ]
+        ],
+        "poolRounds" : [
+          [0.20, 0],
+          [0.80, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [8, {
+        "pool" : [
+          [0.36, [ "feather", 5] ],
+		  [0.10, [ "rawpoultry", 1] ]
+        ],
+        "poolRounds" : [
+          [0.20, 0],
+          [0.80, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [9, {
+        "pool" : [
+          [0.36, [ "feather", 5] ],
+		  [0.10, [ "rawpoultry", 1] ]
+        ],
+        "poolRounds" : [
+          [0.20, 0],
+          [0.80, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ],
+    [10, {
+        "pool" : [
+          [0.36, [ "feather", 5] ],
+		  [0.10, [ "rawpoultry", 1] ]
+        ],
+        "poolRounds" : [
+          [0.20, 0],
+          [0.80, 1]
+        ],
+        "levelVariance" : [0, 0],
+        "allowDuplication" : false
+      } ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "copper_bolts",
+  "rarity" : "Common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "copper_bolts.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Copper Bolts"
+}

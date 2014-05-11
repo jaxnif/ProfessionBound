@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "bronze_bar", "count" : 2 },
+	{ "item" : "solder", "count" : 1 }
+  ],
+  "output" : { "item" : "bronze_framing", "count" : 2 },
+  "groups" : [ "proboundmod", "engineer", "engineeringingredient" ]
+}

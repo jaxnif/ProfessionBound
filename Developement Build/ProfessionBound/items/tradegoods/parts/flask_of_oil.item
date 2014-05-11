@@ -1,0 +1,9 @@
+{
+  "itemName" : "flask_of_oil",
+  "rarity" : "Common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "flask_of_oil.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Flask of Oil"
+}

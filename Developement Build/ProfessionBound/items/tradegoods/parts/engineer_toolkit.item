@@ -1,0 +1,9 @@
+{
+  "itemName" : "engineer_toolkit",
+  "rarity" : "Common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "engineer_toolkit.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Engineer Toolkit"
+}

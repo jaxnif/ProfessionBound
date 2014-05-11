@@ -1,0 +1,9 @@
+{
+  "itemName" : "unstable_trigger",
+  "rarity" : "Common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "unstable_trigger.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Unstable Trigger"
+}

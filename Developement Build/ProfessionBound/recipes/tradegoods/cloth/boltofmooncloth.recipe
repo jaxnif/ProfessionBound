@@ -1,0 +1,11 @@
+{
+  "input" : [
+	{ "item" : "wooden_bolt", "count" : 1 },
+    { "item" : "mooncloth", "count" : 3 }
+  ],
+  "output" : {
+    "item" : "boltofmooncloth",
+    "count" : 1
+  },
+  "groups" : [ "proboundmod", "spinningwheel", "morecloth" ]
+}

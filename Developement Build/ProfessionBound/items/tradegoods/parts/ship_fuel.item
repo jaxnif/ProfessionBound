@@ -1,0 +1,9 @@
+{
+  "itemName" : "ship_fuel",
+  "rarity" : "Common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "ship_fuel.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Ship Fuel"
+}

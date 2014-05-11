@@ -1,0 +1,9 @@
+{
+  "itemName" : "steelstrut",
+  "rarity" : "uncommon",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "steelstrut.png",
+  "description" : "Steel Struts are useful for many devices and gadgets and other stuff!",
+  "shortdescription" : "Steel Strut"
+}

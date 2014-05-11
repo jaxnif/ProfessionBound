@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "proboundtoken", "count" : 1 }
+  ],
+  "output" : { "item" : "limefireworkitem", "count" : 3 },
+  "groups" : [ "proboundmod", "proboundstation" ]
+}

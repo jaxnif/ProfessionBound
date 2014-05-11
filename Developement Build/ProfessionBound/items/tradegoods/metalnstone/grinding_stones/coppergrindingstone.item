@@ -1,0 +1,7 @@
+{
+  "itemName" : "coppergrindingstone",
+  "rarity" : "common",
+  "inventoryIcon" : "grindingstone.png",
+  "description" : "It's a grinding stone made out of copper. Useful for blacksmiths.",
+  "shortdescription" : "Copper Grinding Stone"
+}

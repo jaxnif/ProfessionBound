@@ -1,0 +1,9 @@
+{
+  "itemName" : "woodenstrut",
+  "rarity" : "common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "woodenstrut.png",
+  "description" : "Wooden Struts are useful for many devices and gadgets and other stuff!",
+  "shortdescription" : "Wooden Strut"
+}

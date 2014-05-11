@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "small_sapphire", "count" : 3 }
+  ],
+  "output" : { "item" : "medium_Sapphire", "count" : 1 },
+  "groups" : [ "proboundmod", "runecrafter", "gemupgrade" ]
+}

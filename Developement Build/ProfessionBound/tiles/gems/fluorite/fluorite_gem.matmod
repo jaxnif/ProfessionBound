@@ -1,0 +1,10 @@
+{
+  "modId" : 233,
+  "modName" : "fluorite_gem",
+  "frames" : "fluorite_gem.png",
+  "variants" : 8,
+  "itemDrop" : "small_fluorite",
+  "Description" : "This ore contains a gem.",
+  "health" : 15,
+  "breaksWithTile" : true
+}

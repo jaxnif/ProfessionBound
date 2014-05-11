@@ -1,0 +1,9 @@
+{
+  "itemName" : "wood_stock",
+  "rarity" : "Common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "wood_stock.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Wood Stock"
+}

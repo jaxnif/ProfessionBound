@@ -1,0 +1,32 @@
+{
+	"name": "moon",
+	"__merge": [],
+	"surfaceParameters": {
+		"__merge": [],
+		"ores": "am_surfaceOres",
+		"items": [{
+				"mode": "floor",
+				"priority": 1.0,
+				"variants": 1,
+				"distribution": "/biomes/distributions.config:potsRare",
+				"type": "object",
+				"objectSets": [{
+					"pool": [[0.35,
+					"wildghostmushroomseed"]],
+					"parameters": {
+						"startingStage": 2
+					}
+				}]
+			}
+			],	
+		"weather" : [
+      [
+        [0.025, "starore" ],
+        [0.8, "clear" ]
+      ]
+	  ]
+	},
+	"subSurfaceParameters": {
+		"ores": "am_deepsurfaceOres"
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 2 }
+  ],
+  "output" : { "item" : "copper_tube", "count" : 1 },
+  "groups" : [ "proboundmod", "engineer", "engineeringingredient" ]
+}

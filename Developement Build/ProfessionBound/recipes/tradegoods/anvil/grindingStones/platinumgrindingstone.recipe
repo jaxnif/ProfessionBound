@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "goldgrindingstone", "count" : 1 },
+	{ "item" : "platinumbar", "count" : 2 }
+  ],
+  "output" : { "item" : "platinumgrindingstone", "count" : 1 },
+  "groups" : [ "proboundmod", "anvil", "other" ]
+}

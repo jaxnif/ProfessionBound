@@ -1,0 +1,9 @@
+{
+  "itemName" : "copper_casing",
+  "rarity" : "Common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "copper_casing.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Copper Casing"
+}

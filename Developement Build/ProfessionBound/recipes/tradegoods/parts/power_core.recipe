@@ -1,0 +1,9 @@
+{
+  "input" : [
+	{ "item" : "processor", "count" : 1 },
+	{ "item" : "goldbar", "count" : 1 },
+	{ "item" : "wood_stock", "count" : 1 }
+  ],
+  "output" : { "item" : "power_core", "count" : 1 },
+  "groups" : [ "proboundmod", "engineer", "engineeringingredient" ]
+}

@@ -1,0 +1,7 @@
+{
+  "itemName" : "silvergrindingstone",
+  "rarity" : "common",
+  "inventoryIcon" : "grindingstone.png",
+  "description" : "It's a grinding stone made out of silver. Useful for blacksmiths.",
+  "shortdescription" : "Silver Grinding Stone"
+}

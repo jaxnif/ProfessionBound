@@ -1,0 +1,9 @@
+{
+  "itemName" : "tinkatimer",
+  "rarity" : "uncommon",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "tinkatimer.png",
+  "description" : "Tinka-Timer is useful for making complex gadgets!",
+  "shortdescription" : "Tinka-Timer"
+}

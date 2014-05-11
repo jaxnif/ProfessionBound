@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "pyritebar", "count" : 2 },
+	{ "item" : "flask_of_oil", "count" : 1 }
+  ],
+  "output" : { "item" : "unstable_trigger", "count" : 2 },
+  "groups" : [ "proboundmod", "engineer", "engineeringingredient" ]
+}

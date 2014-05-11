@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 1 },
+	{ "item" : "copper_casing", "count" : 1 }
+  ],
+  "output" : { "item" : "ironstrut", "count" : 1 },
+  "groups" : [ "proboundmod", "engineer", "engineeringingredient" ]
+}

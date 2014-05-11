@@ -1,0 +1,12 @@
+{
+	"name": "ProfessionBound",
+	"version": "Beta v. Enraged Koala",
+	"path": ".",
+	"dependencies": [],
+	"metadata": {
+		"description": "a new crafting experience for Starbound",
+		"author": "Pro Bound Team",
+		"modversion": "HOTFIX #0.2.3 Beta for Update 8, Protocol 643",
+		"support-url": "http://ProfessionBound.com or http://ProfessionBound.net"
+	}
+}

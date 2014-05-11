@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "flask_of_oil", "count" : 1 },
+	{ "item" : "uraniumrod", "count" : 1 },
+	{ "item" : "smallemptyflask", "count" : 1 }
+  ],
+  "output" : { "item" : "ship_fuel", "count" : 3 },
+  "groups" : [ "proboundmod", "engineer", "engineeringingredient" ]
+}

@@ -1,0 +1,8 @@
+{
+  "itemName" : "bronze_framing",
+  "rarity" : "Common",
+  "category" : "Engineering Parts",
+  "race" : "generic",
+  "inventoryIcon" : "bronze_framing.png",
+  "shortdescription" : "Bronze Framing"
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "Ceruliumore", "count" : 1 }
+  ],
+  "output" : { "item" : "cerulium_powder", "count" : 2 },
+  "groups" : [ "proboundmod", "runecrafter", "gemcrafting" ]
+}

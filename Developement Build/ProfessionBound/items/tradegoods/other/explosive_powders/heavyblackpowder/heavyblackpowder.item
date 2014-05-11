@@ -1,0 +1,9 @@
+{
+  "itemName" : "heavyblackpowder",
+  "rarity" : "uncommon",
+  "category" : "Mortar Grinding",
+  "race" : "generic",
+  "inventoryIcon" : "heavyblackpowder.png",
+  "description" : "Heavy Black Powder, an explosive reagent.",
+  "shortdescription" : "Heavy Black Powder"
+}

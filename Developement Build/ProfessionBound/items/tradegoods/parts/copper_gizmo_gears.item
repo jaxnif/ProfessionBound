@@ -1,0 +1,9 @@
+{
+  "itemName" : "copper_gizmo_gears",
+  "rarity" : "Common",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "copper_gizmo_gears.png",
+  "description" : "A small venom sac, this might be useful for creating stuff.",
+  "shortdescription" : "Copper Gizmo Gears"
+}

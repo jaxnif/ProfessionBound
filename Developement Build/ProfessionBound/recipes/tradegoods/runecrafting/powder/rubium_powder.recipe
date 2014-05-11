@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "Rubiumore", "count" : 1 }
+  ],
+  "output" : { "item" : "rubium_powder", "count" : 2 },
+  "groups" : [ "proboundmod", "runecrafter", "gemcrafting" ]
+}

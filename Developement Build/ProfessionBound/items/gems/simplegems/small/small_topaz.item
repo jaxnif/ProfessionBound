@@ -1,0 +1,9 @@
+{
+  "itemName" : "small_topaz",
+  "rarity" : "common",
+  "category" : "Gem",
+  "race" : "generic",
+  "inventoryIcon" : "small_Topaz.png",
+  "description" : "A small Topaz gem.",
+  "shortdescription" : "Small Topaz Gem"
+}

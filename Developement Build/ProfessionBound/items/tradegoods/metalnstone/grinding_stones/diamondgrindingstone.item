@@ -1,0 +1,12 @@
+{
+  "itemName" : "diamondgrindingstone",
+  "rarity" : "common",
+  "inventoryIcon" : "grindingstone.png",
+  "description" : "It's a grinding stone made out of diamond. Useful for blacksmiths.",
+  "shortdescription" : "Diamond Grinding Stone",
+
+  "palette" : [
+  { "626262" : "000000" }
+  ]
+  
+  }

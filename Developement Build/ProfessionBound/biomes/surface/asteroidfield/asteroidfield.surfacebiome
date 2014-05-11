@@ -1,0 +1,17 @@
+{
+	"name": "asteroidfield",
+	"__merge": [],
+	"surfaceParameters": {
+		"__merge": [],
+		"ores": "am_surfaceOres",
+		"weather" : [
+      [
+        [0.025, "starore" ],
+        [0.8, "clear" ]
+      ]
+	  ]
+	},
+	"subSurfaceParameters": {
+		"ores": "am_deepsurfaceOres"
+	}
+}

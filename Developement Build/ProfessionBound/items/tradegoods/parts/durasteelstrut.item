@@ -1,0 +1,9 @@
+{
+  "itemName" : "durasteelstrut",
+  "rarity" : "uncommon",
+  "category" : "Ingredient",
+  "race" : "generic",
+  "inventoryIcon" : "durasteelstrut.png",
+  "description" : "Durasteel Struts are useful for many devices and gadgets and other stuff!",
+  "shortdescription" : "Durasteel Strut"
+}

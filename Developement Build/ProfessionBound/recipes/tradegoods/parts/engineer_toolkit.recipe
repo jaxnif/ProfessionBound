@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "copper_bolts", "count" : 3 },
+	{ "item" : "copper_screws", "count" : 3 },
+	{ "item" : "flask_of_oil", "count" : 1 },
+	{ "item" : "solder", "count" : 1 },
+	{ "item" : "copper_gizmo_gears", "count" : 1 },
+	{ "item" : "copper_casing", "count" : 1 }
+  ],
+  "output" : { "item" : "engineer_toolkit", "count" : 1 },
+  "groups" : [ "proboundmod", "engineer", "engineeringingredient" ]
+}

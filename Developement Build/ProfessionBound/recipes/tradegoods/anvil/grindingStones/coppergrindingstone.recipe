@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "cobblestone", "count" : 1 },
+	{ "item" : "copperbar", "count" : 2 }
+  ],
+  "output" : { "item" : "coppergrindingstone", "count" : 1 },
+  "groups" : [ "proboundmod", "anvil", "other" ]
+}

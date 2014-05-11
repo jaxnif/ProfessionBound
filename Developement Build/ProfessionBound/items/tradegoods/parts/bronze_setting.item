@@ -1,0 +1,8 @@
+{
+  "itemName" : "bronze_setting",
+  "rarity" : "Common",
+  "category" : "Engineering",
+  "race" : "generic",
+  "inventoryIcon" : "bronze_setting.png",
+  "shortdescription" : "Bronze Setting"
+}

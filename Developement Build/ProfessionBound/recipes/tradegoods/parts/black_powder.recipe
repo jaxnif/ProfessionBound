@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "blaststone", "count" : 1 }
+  ],
+  "output" : { "item" : "blackpowder", "count" : 2 },
+  "groups" : [ "proboundmod", "engineer", "engineeringingredient", "mortargrinding" ]
+}

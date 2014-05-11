@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 1 }
+  ],
+  "output" : { "item" : "wooden_bolt", "count" : 3 },
+  "groups" : [ "proboundmod", "proboundmod", "spinningwheel", "morecloth" ]
+}
