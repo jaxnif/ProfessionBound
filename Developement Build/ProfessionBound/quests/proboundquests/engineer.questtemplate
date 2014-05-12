@@ -1,0 +1,16 @@
+{
+  "id" : "engineer.gearup",
+  "title" : "^#9be3d6; Profession Bound - Engineering",
+  "text" : "^white;Profession Bound aims to make crafting a whole new gameplay experience for solo and multiplayer. By creating ^green;race specific profession tables ^white;we can craft new exciting things. This quest line will teach you about your specific profession. For your first quest, go ahead and create your ^green;Engineering Station",
+  "completionText" : "Thank you for choosing Profession Bound to enhance your Starbound experience, now the ^green;fun ^white;begins!",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "EngineeringStation", 1] }
+  ],
+  "moneyRange" : [100, 100],
+  "rewards" : [
+    [ ["EngineeringStation", 1] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "engineer2.gearup"
+}

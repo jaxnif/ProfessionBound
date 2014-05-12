@@ -1,0 +1,16 @@
+{
+  "id" : "tanplace.gearup",
+  "title" : "^#9be3d6; This is a placeholder!",
+  "text" : "^white;This is a placeholder. I will tell you what item to get to beat it when the time arises.",
+  "completionText" : "Thank you for choosing Profession Bound to enhance your Starbound experience, now the ^green;fun ^white;begins!",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "koto", 1] }
+  ],
+  "moneyRange" : [100, 100],
+  "rewards" : [
+    [ ["teacup1", 1] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "tanplace.gearup"
+}

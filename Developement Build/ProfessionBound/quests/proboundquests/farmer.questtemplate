@@ -1,0 +1,16 @@
+{
+  "id" : "farmer.gearup",
+  "title" : "^#9be3d6; Welcome to Profession Bound!!!",
+  "text" : "^white;Profession Bound aims to make crafting a whole new gameplay experience for solo and multiplayer. By creating ^green;race specific profession tables ^white;we can craft new exciting things. For your first quest, go ahead and create your ^green;'Farming Market'",
+  "completionText" : "Thank you for choosing Profession Bound to enhance your Starbound experience, now the ^green;fun ^white;begins!",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "farmingmarket", 1] }
+  ],
+  "moneyRange" : [100, 100],
+  "rewards" : [
+    [ ["farmingmarket", 1] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "farmer2.gearup"
+}

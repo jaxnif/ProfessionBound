@@ -1,0 +1,16 @@
+{
+  "id" : "runecrafter2.gearup",
+  "title" : "^#9be3d6; Intro To Runecrafting",
+  "text" : "^white;Lets get started. Now that you have your ^green;Alchemist Desk ^white;you can start to use it. For your first task, ",
+  "completionText" : "Thank you for choosing Profession Bound to enhance your Starbound experience, now the ^green;fun ^white;begins!",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "fishaxe", 1] }
+  ],
+  "moneyRange" : [100, 100],
+  "rewards" : [
+    [ ["scalpion2", 1] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "runeplace.gearup"
+}

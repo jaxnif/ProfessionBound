@@ -1,0 +1,16 @@
+{
+  "id" : "alchemist.gearup",
+  "title" : "^#9be3d6; Profession Bound - Alchemy",
+  "text" : "^white;Profession Bound aims to make crafting a whole new gameplay experience for solo and multiplayer. By creating ^green;race specific profession tables ^white;we can craft new exciting things. For your first quest, go ahead and create your ^green;'Alchemist Desk'",
+  "completionText" : "Thank you for choosing Profession Bound to enhance your Starbound experience, now the ^green;fun ^white;begins!",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "alchemistdesk", 1] }
+  ],
+  "moneyRange" : [100, 100],
+  "rewards" : [
+    [ ["alchemistdesk", 1] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "alchemist2.gearup"
+}

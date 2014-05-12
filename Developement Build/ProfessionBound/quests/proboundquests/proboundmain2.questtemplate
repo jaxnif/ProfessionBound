@@ -1,0 +1,16 @@
+{
+  "id" : "proboundmain2.gearup",
+  "title" : "^#9be3d6; Welcome to Profession Bound! 2",
+  "text" : "^white;Now that you understand how to get tokens and how to use the ^green;proboundstation, ^white;go ahead and finish your profession quest line. The ^green;proboundstation ^white;will be updated with a ^blue;plethora ^white;of ^blue;cooler ^white;items in the future, so keep an eye out!!!",
+  "completionText" : "Thank you for choosing Profession Bound to enhance your Starbound experience, now the ^green;fun ^white;begins!",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "campfire", 1] }
+  ],
+  "moneyRange" : [100, 100],
+  "rewards" : [
+    [ ["proboundstation", 1], ["proboundtoken", 5] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "proplace.gearup"
+}

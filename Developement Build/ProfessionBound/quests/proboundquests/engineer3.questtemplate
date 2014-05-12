@@ -1,0 +1,16 @@
+{
+  "id" : "engineer3.gearup",
+  "title" : "^#9be3d6; Getting Started",
+  "text" : "^white; In order to complete this quest you need to have unlocked ^purple;Sector B and Tier 2 ^white;by defeating the first boss. Open up your ^green;engineering station ^white;and you will see that you have some new blueprints. We are going to make a ^green;chicken Coop. ^white;Notice that in order to do this you need some parts more parts. Some of these use Professions Bounds custom ore, bronze!",
+  "completionText" : "^white; Well that was certainly ^green;easy. ^white;Now you can start on some harder things.",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "robochickencoop", 1] }
+  ],
+  "moneyRange" : [300, 300],
+  "rewards" : [
+    [ ["robochickencoop", 1] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "engplace.gearup"
+}

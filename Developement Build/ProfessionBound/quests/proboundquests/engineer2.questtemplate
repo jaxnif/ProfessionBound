@@ -1,0 +1,16 @@
+{
+  "id" : "engineer2.gearup",
+  "title" : "^#9be3d6; Getting Started",
+  "text" : "^white; Right now, if you only have the first sector unlocked, you can only craft a ^gree;Molotov. ^white;Go ahead and do that now using your ^green;engineering station.",
+  "completionText" : "^white; Well that was certainly ^green;easy. ^white;Now you can start on some harder things.",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "molotov", 1] }
+  ],
+  "moneyRange" : [200, 200],
+  "rewards" : [
+    [ ["molotov", 1] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "engineer3.gearup"
+}

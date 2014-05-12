@@ -1,0 +1,16 @@
+{
+  "id" : "proboundmain.gearup",
+  "title" : "^#9be3d6; Welcome to Profession Bound!",
+  "text" : "^white;This quest line will teach you about mod mechanics. Profession Bound rewards you with ^green;ProBoundTokens ^white;for completing quests and doing tasks. To spend them you need a ^green;ProBoundStation. ^white;Normally you need to craft it, but I'll give it to you and some tokens for a ^purple;Camp Fire.",
+  "completionText" : "Thank you for choosing Profession Bound to enhance your Starbound experience, now the ^green;fun ^white;begins!",
+  "conditions" : [
+    { "kind" : "gather", "item" : [ "campfire", 1] }
+  ],
+  "moneyRange" : [100, 100],
+  "rewards" : [
+    [ ["proboundstation", 1], ["proboundtoken", 4] ]
+  ],
+  "planetMode" : "none",
+  "questDungeons" : [ ],
+  "followUp" : "proboundmain2.gearup"
+}
